@@ -194,6 +194,17 @@ span {
   }
 }
 @media screen and (max-width:500px){
+  header {
+  top: 50px;
+}
+  nav{
+    margin: 10px 5px;
+    padding: 5px 10px;
+    gap: 5px;
+}
+ul{
+  gap: 8px;
+}
 ul li{
     font-size: 8px;
   }
@@ -217,3 +228,4 @@ ul li{
   font-size: 13px;
 }
 }
+
